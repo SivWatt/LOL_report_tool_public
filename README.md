@@ -18,10 +18,7 @@ Automatically report players.
 3. 以系統管理員身分執行 setup.bat
 
 ## Usage
-- Run GoReport_*.bat as Administrator with your LOL client console on.
-  - GoReport_All.bat: report all the players except yourself.
-  - GoReport_Enemy.bat: report all the players on the enemy side. 
-  - GoReport_Team.bat: report all your teammates.
-
+- Run RunReportTool.exe as administrator and the GUI will show.  
+![GUI](/image/README/main-window.PNG?raw=true)
 - The report message is from "reportText.txt" file.  
 You can change it to anything you want.
